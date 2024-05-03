@@ -1,2 +1,2 @@
 # GCD-
-GCD by Euglidean method
+GCD by Euclidean method
